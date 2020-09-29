@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<playground version='6.0' target-platform='ios' buildActiveScheme='true'>
+    <pages>
+        <page name='Multi-pattern catch clauses'/>
+        <page name='Multiple trailing closures'/>
+        <page name='Synthesized Comparable conformance for enums'/>
+        <page name='self is no longer required in many places'/>
+        <page name='Type-Based Program Entry Points'/>
+        <page name='where clauses on contextually generic declarations'/>
+        <page name='Enum cases as protocol witnesses'/>
+        <page name='Refined didSet Semantics'/>
+        <page name='A new Float16 type'/>
+    </pages>
+</playground>
